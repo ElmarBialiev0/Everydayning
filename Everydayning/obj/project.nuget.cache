@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b+CvMo1h8TIISbBZMBxNNEai4nfH+EaNWJxOYUrsfz7/gZfZe5GsgLZ2CzJwntYgp6oIt8FRU/oEPSFas9O8qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\шарага\\repos\\Everydayning\\Everydayning\\Everydayning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
